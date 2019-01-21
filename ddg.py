@@ -12,4 +12,4 @@ while flag:
         flag = False
     else:
         lista.append(jugador)
-ddg(lista,3)
+ddg(lista,4)
